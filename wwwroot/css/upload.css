@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to top, #2e2d2d, #7d9674); /* Fra lys grå til en lys blåaktig farge */
+    height: 100vh; /* Sørger for at gradienten dekker hele siden */
+    margin: 0;
+}
+
+/* Style for progress bar */
+.progress {
+    height: 30px;
+}
+
+.progress-bar {
+    background-color: #1b6ec2;
+    width: 100%;
+    animation: progress-animation 2s infinite;
+}
+
+@keyframes progress-animation {
+    0% { width: 0%; }
+    100% { width: 100%; }
+}

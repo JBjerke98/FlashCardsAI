@@ -1,0 +1,12 @@
+.navbar .nav-link {
+    color: white !important;
+}
+
+.navbar .navbar-brand {
+    color: white !important;
+}
+
+.navbar .nav-link:hover {
+    color: #ddd !important;  /* Lysere farge ved hover */
+}
+

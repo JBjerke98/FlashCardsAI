@@ -1,0 +1,31 @@
+.catchPhrase {
+    font-size: 1.25rem;
+    line-height: 1.6;
+    color: #373737;
+}
+
+.container {
+    background-color: #a4b39f;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    background-color: #373737;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.25rem;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #dbdbdb;
+    color: #373737;
+
+}
+body {
+    background: linear-gradient(to top, #2e2d2d, #7d9674); /* Fra lys grå til en lys blåaktig farge */
+    height: 100vh; /* Sørger for at gradienten dekker hele siden */
+    margin: 0;
+}

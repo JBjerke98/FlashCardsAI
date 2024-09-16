@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/Images/bilde1.jpg",
+      "PackagePath": "staticwebassets/Images/bilde1.jpg"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/Images/bilde2.jpg",
+      "PackagePath": "staticwebassets/Images/bilde2.jpg"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/Images/bilde3.jpg",
+      "PackagePath": "staticwebassets/Images/bilde3.jpg"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/css/index.css",
+      "PackagePath": "staticwebassets/css/index.css"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/css/layout.css",
+      "PackagePath": "staticwebassets/css/layout.css"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/css/upload.css",
+      "PackagePath": "staticwebassets/css/upload.css"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/uploads/ADSE IoT week4.pdf",
+      "PackagePath": "staticwebassets/uploads/ADSE IoT week4.pdf"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/uploads/ADTS1600 Oblig 2.pdf",
+      "PackagePath": "staticwebassets/uploads/ADTS1600 Oblig 2.pdf"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/uploads/Prosjekt 3.pdf",
+      "PackagePath": "staticwebassets/uploads/Prosjekt 3.pdf"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/uploads/Yale-Doorman-V2N-manual-1.pdf",
+      "PackagePath": "staticwebassets/uploads/Yale-Doorman-V2N-manual-1.pdf"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/uploads/kompendium-2018h_databaseutvikling.pdf",
+      "PackagePath": "staticwebassets/uploads/kompendium-2018h_databaseutvikling.pdf"
+    },
+    {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/uploads/ppTest.pptx",
+      "PackagePath": "staticwebassets/uploads/ppTest.pptx"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FlashCardsAI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.FlashCardsAI.props",
+      "PackagePath": "build\\FlashCardsAI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FlashCardsAI.props",
+      "PackagePath": "buildMultiTargeting\\FlashCardsAI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FlashCardsAI.props",
+      "PackagePath": "buildTransitive\\FlashCardsAI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
