@@ -6,11 +6,11 @@ Flashcards AI is a web application designed to simplify the creation of flashcar
 
 -Upload PDF or PowerPoint: Users can upload .pdf or .pptx files, and the app will process and extract relevant content.
 
-AI-Generated Flashcards: 
+AI-Generated Flashcards:
 
 -The app uses OpenAI's GPT-3.5-Turbo model to generate well-structured flashcards (questions and answers) from the uploaded files.
 
-Interactive Flashcards: 
+Interactive Flashcards:
 
 -Once the AI generates flashcards, users can interact with them, flipping to view the answer to each question.
 
@@ -60,7 +60,7 @@ Interactive Flashcards:
 
 -python -m venv venv
 
--source venv/bin/activate  # For Windows use `venv\Scripts\activate`
+-source venv/bin/activate # For Windows use `venv\Scripts\activate`
 
 -Python script is located in the repository
 
@@ -94,7 +94,7 @@ Interactive Flashcards:
 
 -Ensure your virtual environment is active:
 
--source venv/bin/activate  # For Windows, `venv\Scripts\activate`
+-source venv/bin/activate # For Windows, `venv\Scripts\activate`
 
 -Run the Python script when a file is uploaded.
 
@@ -102,46 +102,45 @@ Interactive Flashcards:
 
 -dotnet run
 
--Open your browser and go to http://localhost:**** to interact with the web app.
+-Open your browser and go to http://localhost:\*\*\*\* to interact with the web app.
 
 ## Project Structure
 
 ├── FlashCardsAI/
 
-│   ├── Controllers/
+│ ├── Controllers/
 
-│   │   ├── PromptController.cs    # Handles AI-generated flashcards
+│ │ ├── PromptController.cs # Handles AI-generated flashcards
 
-│   │   └── UploadController.cs    # Handles file uploads
+│ │ └── UploadController.cs # Handles file uploads
 
-│   ├── Models/
+│ ├── Models/
 
-│   │   └── Prompt.cs              # Model representing flashcards (questions and answers)
+│ │ └── Prompt.cs # Model representing flashcards (questions and answers)
 
-│   ├── Views/
+│ ├── Views/
 
-│   │   ├── Prompt/
+│ │ ├── Prompt/
 
-│   │   │   ├── Table.cshtml       # View for displaying flashcards
+│ │ │ ├── Table.cshtml # View for displaying flashcards
 
-│   │   └── Upload/
+│ │ └── Upload/
 
-│   │       └── UploadFile.cshtml  # View for uploading files
+│ │ └── UploadFile.cshtml # View for uploading files
 
-│   ├── wwwroot/
+│ ├── wwwroot/
 
-│   │   └── css/
+│ │ └── css/
 
-│   │       └── layout.css         # Custom CSS for styling the pages
+│ │ └── layout.css # Custom CSS for styling the pages
 
-├── pptxScript.py                  # Python script for extracting text and generating questions
+├── pptxScript.py # Python script for extracting text and generating questions
 
-├── .env                           # Environment file for OpenAI API key
+├── .env # Environment file for OpenAI API key
 
-├── README.md                      # This readme file
+├── README.md # This readme file
 
-└── requirements.txt               # Python package dependencies
-
+└── requirements.txt # Python package dependencies
 
 ## API Integration
 
@@ -160,7 +159,6 @@ Interactive Flashcards:
 -Additional customization options for generated flashcards.
 
 -Improved error handling for complex documents.
-
 
 ## License
 

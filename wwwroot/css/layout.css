@@ -1,12 +1,11 @@
 .navbar .nav-link {
-    color: white !important;
+  color: white !important;
 }
 
 .navbar .navbar-brand {
-    color: white !important;
+  color: white !important;
 }
 
 .navbar .nav-link:hover {
-    color: #ddd !important;  
+  color: #ddd !important;
 }
-
