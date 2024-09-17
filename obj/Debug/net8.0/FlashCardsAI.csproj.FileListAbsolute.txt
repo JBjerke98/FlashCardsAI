@@ -31,3 +31,4 @@
 /Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/obj/Debug/net8.0/FlashCardsAI.pdb
 /Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/obj/Debug/net8.0/FlashCardsAI.genruntimeconfig.cache
 /Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/obj/Debug/net8.0/ref/FlashCardsAI.dll
+/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/obj/Debug/net8.0/FlashCardsAI.sourcelink.json

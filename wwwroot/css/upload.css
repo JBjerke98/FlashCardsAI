@@ -1,6 +1,6 @@
 body {
-    background: linear-gradient(to top, #2e2d2d, #7d9674); /* Fra lys grå til en lys blåaktig farge */
-    height: 100vh; /* Sørger for at gradienten dekker hele siden */
+    background: linear-gradient(to top, #2e2d2d, #7d9674); 
+    height: 100vh; 
     margin: 0;
 }
 

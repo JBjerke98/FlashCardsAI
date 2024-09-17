@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/Images/bilde3.jpg"
     },
     {
+      "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/css/generateFlashcard.css",
+      "PackagePath": "staticwebassets/css/generateFlashcard.css"
+    },
+    {
       "Id": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/css/index.css",
       "PackagePath": "staticwebassets/css/index.css"
     },

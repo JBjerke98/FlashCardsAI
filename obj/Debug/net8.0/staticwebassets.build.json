@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nASvHuq86V3yZZAGH24OspYi/coV32r35HeGqxwVaKQ=",
+  "Hash": "sY175+Iwg68pBhQ5rBwMn8ptI7hKb60kiu6DdrKFVU8=",
   "Source": "FlashCardsAI",
   "BasePath": "_content/FlashCardsAI",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/css/generateFlashcard.css",
+      "SourceId": "FlashCardsAI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/",
+      "BasePath": "_content/FlashCardsAI",
+      "RelativePath": "css/generateFlashcard.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/generateFlashcard.css"
+    },
     {
       "Identity": "/Users/jonasbjerke/Documents/HomeHUB/Egne kode prosjekter/FlashCardsAI/FlashCardsAI/wwwroot/css/index.css",
       "SourceId": "FlashCardsAI",
