@@ -50,7 +50,7 @@ Interactive Flashcards:
 
 ### Clone the Repository
 
--git clone https://github.com/yourusername/flashcards-ai.git
+-git clone https://github.com/JBjerke98/flashcards-ai.git
 
 -cd flashcards-ai
 
